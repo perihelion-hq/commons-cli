@@ -75,7 +75,7 @@ Alternatively, you can pull it from the central Maven repositories:
 Building
 --------
 
-Building requires a Java JDK and [Gradle](https://gradle.org/); run `./gradlew build`, which also runs the JUnit tests.
+Building requires a Java JDK and [Gradle](https://gradle.org/); run `./gradlew build`, which also runs the JUnit tests. The build declares no Maven `pom.xml`.
 The required Java version is found in `build.gradle` as the `sourceCompatibility` setting.
 
 From a command shell, run `mvn` without arguments to invoke the default Maven goal to run all tests and checks.
