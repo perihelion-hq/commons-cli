@@ -75,8 +75,8 @@ Alternatively, you can pull it from the central Maven repositories:
 Building
 --------
 
-Building requires a Java JDK and [Apache Maven](https://maven.apache.org/).
-The required Java version is found in the `pom.xml` as the `maven.compiler.source` property.
+Building requires a Java JDK and [Gradle](https://gradle.org/); run `./gradlew build`.
+The required Java version is found in `build.gradle` as the `sourceCompatibility` setting.
 
 From a command shell, run `mvn` without arguments to invoke the default Maven goal to run all tests and checks.
 
