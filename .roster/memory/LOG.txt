@@ -1,0 +1,1 @@
+#0 2026-10-18 Commons CLI uses Maven: pom.xml sets Java source/target 1.8 and defaultGoal clean verify plus RAT, japicmp, Checkstyle, SpotBugs, PMD and Javadoc checks; README Gradle claims contradict it.                                                                                                                    
