@@ -1,0 +1,1 @@
+#0 2026-10-17 CODE_OF_CONDUCT.md delegates to the ASF conduct policy; .github/GH-ROBOTS.txt contains a User-agent disallow rule, not Java API or build documentation.                                                                                                                                                          
